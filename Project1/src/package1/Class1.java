@@ -5,6 +5,7 @@ public class Class1
    public Class1() 
    {
 	System.out.println("default constructor");
+	System.out.println("Changes done");
    }
    
    public Class1(int a) 
